@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Namiar
-- 👀 I’m interested in data science
+- 👋 Hi, I’m Ameera Iman Hassan
+- 👀 I’m interested in web development and data science
 - 🌱 I’m currently learning information system engineering
-- 💞️ I’m looking to collaborate on .. still thinking
-- 📫 How to reach me Telegram @mee_iman
+- 💞️ Please check out my resume
+- 📫 Send me an email: h.ameera.iman@gmail.com
 
 <!---
 Namiar/Namiar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
